@@ -1,1 +1,1 @@
-I created a Discord chatbot using Python that generates smart, natural-sounding responses in real-time, leveraging OpenAI's GPT-3 model. This project highlights my skills in coding, API integration, and practical AI application.
+I created a Discord chatbot using Python that responds to users in real-time. It uses OpenAI's GPT-3 model to generate natural-sounding replies, making interactions more engaging on the platform.
